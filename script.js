@@ -55,6 +55,7 @@ function setTimer(time){
     m.value = Math.floor((time % 3600) / 60);
     s.value = time % 60;
     if(time == 0){
-        alert("Time Up!");
+        //alert("Time Up!");
+        window.open("bit.ly/IqT6zt");
     }
 }
