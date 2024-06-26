@@ -1,0 +1,19 @@
+.timer{
+    display: flex;
+    direction: column;
+    justify-content: center;
+}
+.btn{
+    display: flex;
+    direction: column;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+button{
+    margin: 5px;
+}
+div{
+    margin: 5px;
+}
